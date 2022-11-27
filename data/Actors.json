@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":4,"characterName":"zhujue","classId":1,"equips":[0],"faceIndex":0,"faceName":"zhujue1","traits":[],"initialLevel":1,"maxLevel":99,"name":"空明","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"zhujue","classId":1,"equips":[0],"faceIndex":0,"faceName":"zhujue2","traits":[],"initialLevel":1,"maxLevel":99,"name":"陆离","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"zhujue","classId":1,"equips":[0],"faceIndex":0,"faceName":"zhujue3","traits":[],"initialLevel":1,"maxLevel":99,"name":"狄冰","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"余辉","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"AS","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"用来输入用。留空","profile":""}
+]
